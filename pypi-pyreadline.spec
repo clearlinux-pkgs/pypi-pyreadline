@@ -4,7 +4,7 @@
 #
 Name     : pypi-pyreadline
 Version  : 2.1
-Release  : 30
+Release  : 31
 URL      : https://files.pythonhosted.org/packages/bc/7c/d724ef1ec3ab2125f38a1d53285745445ec4a8f19b9bb0761b4064316679/pyreadline-2.1.zip
 Source0  : https://files.pythonhosted.org/packages/bc/7c/d724ef1ec3ab2125f38a1d53285745445ec4a8f19b9bb0761b4064316679/pyreadline-2.1.zip
 Summary  : A python implmementation of GNU readline.
